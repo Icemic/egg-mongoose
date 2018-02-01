@@ -1,7 +1,7 @@
 {
-  "name": "egg-mongoose",
-  "version": "2.1.1",
-  "description": "egg mongoose plugin",
+  "name": "egg-mongoose-v5",
+  "version": "2.2.0",
+  "description": "egg mongoose plugin for mongoose v5",
   "eggPlugin": {
     "name": "mongoose"
   },
@@ -13,8 +13,8 @@
     "egg-plugin"
   ],
   "dependencies": {
-    "await-event": "^2.0.0",
-    "mongoose": "^4.8.6"
+    "await-event": "^2.1.0",
+    "mongoose": "^5.0.3"
   },
   "devDependencies": {
     "autod": "^2.7.1",
@@ -50,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-mongoose.git"
+    "url": "git+https://github.com/Icemic/egg-mongoose.git"
   },
   "bugs": {
     "url": "https://github.com/eggjs/egg/issues"
